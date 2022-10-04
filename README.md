@@ -36,7 +36,7 @@ The project was implemented in Java, fulfilling all the object-oriented paradigm
 -	Implementation of the possibility of adding organisms to the game world. In all fields it is impossible to add with corrections in the world.
 -	Implementation of an abstract for the world with two implementations. In one implementation, a game on a grate, in the other, a game on a board divided into cubic fields (as in a hex board game).
 
-## Description of how it works
+## How it works
 After starting the program, select whether a new world will be created or the world will be loaded from a txt file.
 The methods in the World class are responsible for the course of the game. The game board is a two-dimensional board. The Swing library is used to visualize the board.
 When the world is made, a certain proportion of all halves of the world is filled. With the help of an array of variable sizes (ArrayList) and the shuffle method, the organisms are placed randomly on the board's fields.
