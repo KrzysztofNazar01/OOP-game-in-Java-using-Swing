@@ -1,4 +1,4 @@
-# OOP board game in Java using Swing
+# Virtual world - board game in Java using Swing
 
 ## Description
 This project was created as a part of “*Object Oriented Programming Bascis*” classes on Gdańsk University of Technology. A board game was implemented using Java programming language and Swing library to create the game interface.
